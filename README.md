@@ -1,6 +1,6 @@
 # 🕺🏼 About Me
 
-404: lab protocols 🧪 not found<br>200: web developer 🧑🏼‍💻 status ok<br><br>Transitioning from scientific career to software development.<br><br>👋🏼 Hi! I'm Arnaud<br>🔬 Former life: Molecular biology researcher<br>💻 Current stack: MERN<br>📚 Learning: Hono & OpenAPI<br>🚀 Building: directory about ai in healthcare<br>📍 Barcelona
+404: lab protocols 🧪 not found<br>200: web developer 🧑🏼‍💻 status ok<br><br>Transitioning from scientific career to software development.<br><br>👋🏼 Hi! I'm Arnaud<br>🔬 Former life: Molecular biology researcher<br>📚 Learning at arol.dev<br>🚀 Building: directory about ai in healthcare<br>📍 Barcelona
 
 # 🧰 Tech Stack
 
