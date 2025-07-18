@@ -3,7 +3,7 @@
 👋🏼 Hi! I'm Arnaud<br>
 👨‍💻 Software Engineer<br>
 👨‍🔬 Scientist<br>
-📚 Graduate at [arol.dev](https://www.arol.dev/) ❤️ and University Of Strasbourg<br>
+📚 Alumni at [arol.dev](https://www.arol.dev/) ❤️<br>
 🚀 Building: [Tiburon App](https://tiburon-systems.es/) 🦈<br>
 📍 Barcelona<br>
 
