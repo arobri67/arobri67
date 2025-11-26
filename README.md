@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) -->
 
-# 📊 GitHub Stats
+<!-- # 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arobri67&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
