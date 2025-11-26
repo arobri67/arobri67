@@ -4,7 +4,7 @@
 👨‍💻 Software Engineer<br>
 👨‍🔬 Scientist<br>
 📚 Alumni at [arol.dev](https://www.arol.dev/) ❤️<br>
-🚀 Building: [Tiburon App](https://tiburon-systems.es/) 🦈<br>
+🚀 Building: [Ersilia Model Request App](https://www.ersilia.io/)<br>
 
 📍 Barcelona<br>
 
